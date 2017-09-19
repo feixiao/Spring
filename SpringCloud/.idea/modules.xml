@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/eureka/ribbon-consumer/ribbon-consumer.iml" />
+    </modules>
+  </component>
+</project>
